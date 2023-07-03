@@ -55,7 +55,7 @@ Task:
 4. Have default static variable branch_name = 'chennai'
 5. Create two default, non-static methods 
 get_loan(int amount), create_account() with void as return datatype. 
-6. Now, in the same package(bank.creditcard), create one more default class called Account_Holder. 
+6. Now, in the same package(bank.chennai), create one more default class called Account_Holder. 
 7. Have main method in this class. 
 8. Try to access all static, non-static variables and non-static methods in SBI class.  
 9.  Create another package called bank.madurai. 
